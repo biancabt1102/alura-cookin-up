@@ -25,7 +25,7 @@
             </ul>
 
             <p v-else class="paragrafo lista-vazia">
-                <img src="../assets/images/icones/lista-vazia.svg" alt="Ícone de pesquisa">
+                <img src="@/assets/images/icones/lista-vazia.svg" alt="Ícone de pesquisa">
                 Sua lista está vazia, selecione ingredientes para iniciar.
             </p>
 
