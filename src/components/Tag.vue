@@ -2,7 +2,7 @@
 export default {
     props: {
         texto: { type: String, required: true },
-        ativa:  Boolean 
+        ativa: Boolean
     }
 }
 </script>
@@ -31,5 +31,4 @@ export default {
     background: var(--coral, #F0633C);
     font-weight: 700;
 }
-
 </style>
