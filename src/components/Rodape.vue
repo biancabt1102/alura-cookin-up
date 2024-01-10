@@ -1,6 +1,6 @@
 <template>
     <footer class="rodape">
-        Desenvolvido por mim | 2024 - Projeto fícticio sem fins comerciais.
+        Desenvolvido por Alura | 2024 - Projeto fícticio sem fins comerciais.
     </footer>
 </template>
 
